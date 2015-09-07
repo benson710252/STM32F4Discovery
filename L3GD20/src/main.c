@@ -43,6 +43,7 @@ void RCC_Configuration()
 
 void GPIO_Configuration()
 {
+	// Test 123
 	// GPIO Configuration
 	// LED3 (Green): GPIO_Pin_13, LED4 (Red): GPIO_Pin_14
 	GPIO_InitTypeDef GPIO_InitStructure;
