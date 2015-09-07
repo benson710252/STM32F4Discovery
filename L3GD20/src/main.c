@@ -37,6 +37,7 @@
 void RCC_Configuration()
 {
 	// 123132
+	// 12313134564
 	// RCC Configuration
 	RCC_AHB1PeriphClockCmd(RCC_AHB1Periph_GPIOG, ENABLE);
 }
